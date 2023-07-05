@@ -1,9 +1,13 @@
+// import
+
 import React from 'react'
+
+// Create function for footer
 
 export default function Footer() {
   let footerStyle={
     position : "relative",
-    top : "5vh",
+    bottom : "0",
     width : "100%"
 
   }

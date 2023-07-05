@@ -1,17 +1,21 @@
+/* CSS  */
+
 .App {
   text-align: center;
 }
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
+body {
+  background: linear-gradient( white);
+}
+.container {
+  background: linear-gradient( lightblue, lightblue);
+  margin:auto;
+  padding:20px;
+ 
 }
 
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
-}
+
+
 
 .App-header {
   background-color: #282c34;
@@ -36,3 +40,32 @@
     transform: rotate(360deg);
   }
 }
+
+.btn{
+  padding:0.5em 2em;
+  border: 2px solid black;
+  margin-left: 30px;
+  
+}
+
+.btn-light{
+  margin-top:2rem!important;
+}
+
+.form-check-input[type="radio"] {
+  border: 1px solid black;
+  border-radius: 10px;
+  cursor: pointer;
+}
+
+th,
+td {
+  text-align: center;
+}
+
+.form-label {
+  margin-bottom:0.1rem;
+  margin-top: 20px;
+
+}
+
