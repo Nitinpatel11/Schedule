@@ -3,9 +3,11 @@
 ### Hello, My Name is Nitin 
 
 
-### Available Scripts `cd Schedule`
+### Available Scripts 
 
 In the terminal, you can run first: cd Schedule then only go for npm start
+
+### `cd Schedule`
 
 ### `npm start`
 
